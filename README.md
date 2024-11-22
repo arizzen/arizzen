@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there I'm Richmond👋 
+I'm a Frontend Developer - HTML, CSS, JAVASCRIPT
 
-Nice to Meet You
-I'm Richmond
-i write C++,javascript, Html & Css
-You can reach Me on twitter https://twitter.com/richmon19415105
+✨ An Alx certified Sofware engineer
+🔭 Studied Computer Science at the University of Benin, Nigeria
+🌱 Currently learning about Python automation.
+You can reach Me on [twitter](https://twitter.com/richmon19415105)
 Looking forward to meeting you
+
+[![arizzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=arizzen)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arizzen/arizzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
