@@ -3,7 +3,7 @@ I'm a Frontend Developer - HTML, CSS, JAVASCRIPT
 
 ✨ An Alx certified Sofware engineer
 🔭 Studied Computer Science at the University of Benin, Nigeria
-🌱 Currently learning about Python automation.
+🌱 Currently learning about web3 development.
 You can reach Me on [twitter](https://twitter.com/richmon19415105)
 Looking forward to meeting you
 
